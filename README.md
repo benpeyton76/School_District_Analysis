@@ -1,6 +1,6 @@
-# School District Analysis
+# ***School District Analysis***
 
-## ***Overview of the school district analysis: Explain the purpose of this analysis.***
+## ***Overview:***
 
 The purpose of this analysis is to see if grades that had been altered in the 9th grade class of Thomas High School would affect the scores within the grades, school, and district. Due to the incorrect math and reading scores that were listed were changed to "NaN" (not-a-number). It was found that 461 student records were changed. An analysis was initiated to see if budget per student, size, and type of school has any correlation to the overall percentage of grades of the schools. 
 
