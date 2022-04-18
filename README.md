@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to see if grades that had been altered in the 9th grade class of Thomas High School would affect the scores within the grades, school, and district. Due to the incorrect math and reading scores that were listed were changed to "NaN" (not-a-number). It was found that 461 student records were changed. An analysis was initiated to see if budget per student, size, and type of school has any correlation to the overall percentage of grades of the schools. 
 
-## ***Results***
+## ***Results:***
 
 ***1. How is the district summary affected?***
 ![Screen Shot 2022-04-06 at 3 26 28 PM](https://user-images.githubusercontent.com/87077325/162065031-38d51d07-4ca6-4207-816a-8d217b22c437.png)
@@ -54,6 +54,6 @@ Reading:
 
    There was no change.
 
-## ***Summary*** 
+## ***Summary:*** 
 
 Besides minute changes in scores and percentages, the math, reading, and overall scores and percentages did not change. There was no change in the rank of the schools within the district. Overall, removing the test scores in question did not change any aspect of this research.
