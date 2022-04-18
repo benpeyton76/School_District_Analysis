@@ -49,7 +49,7 @@ Reading:
    There was no change.
    
    - Scores by school type:
-   - 
+ 
   ![Screen Shot 2022-04-06 at 3 52 17 PM](https://user-images.githubusercontent.com/87077325/162068833-109e0e9b-d20c-4003-8390-72984b819489.png)
 
    There was no change.
